@@ -1,0 +1,5 @@
+# Xcode debug symbol files
+*.dSYM
+
+# Executables produced by building
+*.exe
